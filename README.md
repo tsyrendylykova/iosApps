@@ -30,3 +30,8 @@
 <p>
 <img height="450" src="https://github.com/tsyrendylykova/iosApps/blob/master/images/image_06.png">
 <p>
+
+## Bitcoin
+<p>
+<img height="450" src="https://github.com/tsyrendylykova/iosApps/blob/master/images/image_07.png">
+<p>
